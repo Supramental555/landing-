@@ -1,40 +1,57 @@
-[![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+![Screenshot](https://media.cssninja.io/products/dokto/product.png "Dokto")
 
-# Astro Landing Page
+# 👋 Dokto
+> Dokto is a free landing page starter built by [cssninjaStudio](https://cssninja.io).
 
-> An Astro + Tailwind CSS example/template for landing pages.
+[![cssninja-discord](https://img.shields.io/discord/785473098069311510?label=join%20us%20on%20discord&color=6944EC)](https://go.cssninja.io/discord)
 
-![Screenshots of Astro Landing Page](screenshots.jpg)
+## ✌️ preview
 
-## Features
+Check out the live demo by clicking [here](https://dokto.cssninja.io). 
+Dokto is built with [Astro](https://astro.build), [TailwindCSS](https://tailwindcss.com/) and [Alpine JS](https://github.com/alpinejs/alpine).
 
-- 💨 Tailwind CSS for styling
-- 🎨 Themeable
-  - CSS variables are defined in `src/styles/theme.css` and mapped to Tailwind classes (`tailwind.config.cjs`)
-- 🌙 Dark mode
-- 📱 Responsive (layout, images, typography)
-- ♿ Accessible (as measured by https://web.dev/measure/)
-- 🔎 SEO-enabled (as measured by https://web.dev/measure/)
-- 🔗 Open Graph tags for social media sharing
-- 💅 [Prettier](https://prettier.io/) setup for both [Astro](https://github.com/withastro/prettier-plugin-astro) and [Tailwind](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+## 👍 Features
 
-## Commands
+* Astro v1.x
+* Nodejs v16.x
+* Bulma v0.9.x
+* ES6 support
+* Alpine v3.x
 
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `npm install`          | Install dependencies                               |
-| `npm run dev`          | Start local dev server at `localhost:3000`         |
-| `npm run build`        | Build your production site to `./dist/`            |
-| `npm run preview`      | Preview your build locally, before deploying       |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
-| `npm run astro --help` | Get help using the Astro CLI                       |
-| `npm run format`       | Format code with [Prettier](https://prettier.io/)  |
-| `npm run clean`        | Remove `node_modules` and build output             |
+## 👌 Usage
 
-## Credits
+1. Install Depedencies
 
-- astronaut image
-  - source: https://github.com/withastro/astro-og-image; note: this repo is not available anymore
-- moon image
-  - source: https://unsplash.com/@nasa
-- other than that, a lot of material (showcase data, copy) was taken from official Astro sources, in particular https://astro.build/blog/introducing-astro/ and https://github.com/withastro/astro.build
+```sh
+pnpm i
+```
+
+2. Run in dev mode
+
+```sh
+pnpm dev
+```
+
+3. Or build source
+
+```sh
+pnpm build
+```
+
+## 🍔 Issues
+
+If you've found an issue or a bug, you can report it in the issues section of this repository. Please try to follow these simple guidelines to report your issue:
+
+* Issue definition
+* Expected behaviour
+* Actual behaviour
+* steps to reproduce
+* Already tried fixes (if relevant)
+
+## 🎉 More
+
+Find more premium website and app templates on [Css Ninja](https://cssninja.io/).
+
+## 🚀 About Us
+
+Css Ninja is a web design studio. We build handcrafted and polished templates that will give some hype to your startup or to your next project.
